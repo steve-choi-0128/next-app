@@ -63,7 +63,7 @@ export default function AlternateTimeline() {
                 <Image
                   className={styles.logo}
                   src="/IMG_5205.jpg"
-                  alt="asd"
+                  alt="asdㅁㄴㅇㄴㅇ"
                   width={180}
                   height={38}
                   priority
